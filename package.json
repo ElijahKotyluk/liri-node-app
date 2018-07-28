@@ -19,6 +19,9 @@
   "homepage": "https://github.com/ElijahKotyluk/liri-node-app#readme",
   "dependencies": {
     "node-spotify-api": "^1.0.7",
-    "npm": "^6.2.0"
+    "npm": "^6.2.0",
+    "dotenv": "^4.0.0",
+    "simple-node-logger": "^0.93.33",
+    "twitter": "^1.7.1"
   }
 }
